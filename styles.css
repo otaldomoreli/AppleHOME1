@@ -1,0 +1,91 @@
+15:26 25/06/2023
+  
+    * {
+     
+    margin: 0;
+      
+     
+    padding: 0;
+      
+     
+    box-sizing: border-box;
+    }
+    
+    /* Basic Styling */
+    body {
+      
+     
+    font-family: Arial, sans-serif;
+      line-height: 2;
+      
+     
+    background-color: #272727;
+    }
+    
+    header {
+      
+     
+    background-color: #333;
+      padding: 10px;
+    }
+    
+    nav ul {
+      list-style: none;
+      
+     
+    display: flex;
+    }
+    
+    nav ul li {
+      
+     
+    margin-right: 100px;
+    }
+    
+    nav ul li a {
+      color: #ffffff;
+      
+     
+    text-decoration: none;
+    }
+    
+    main {
+      max-width: 800px;
+      margin: 200px auto;
+      padding: 200px;
+      background-color: #ffffff;
+    }
+    
+    .profile {
+      text-align: center;
+      font-size:x-large;
+      margin-bottom: 10px;
+    }
+    
+    .avatar img {
+      
+    text-align: left; 
+    width: 150px;
+      border-radius: 1px;
+    }
+    
+    .friends ul {
+      
+     
+    list-style: none;
+      display: flex;
+    }
+    
+    .friends ul li {
+      
+     
+    margin-right: 10px;
+    }
+    
+    .posts .post {
+      
+     
+    margin-bottom: 2000px;
+    }
+    
+    .post-header img
